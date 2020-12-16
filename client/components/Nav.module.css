@@ -1,3 +1,16 @@
 .container{
   display: flex;
+  margin-right: 10%;
+  margin-left: 10%; 
+  justify-content: space-evenly;
+}
+.logo{
+  margin-right: 350px;
+}
+.links{
+  display: flex;
+  margin-left: 50px;
+}
+.single{
+  padding-right: 20px;
 }
